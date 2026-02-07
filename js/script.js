@@ -202,6 +202,12 @@ document.querySelectorAll('.command-card').forEach(card => {
     });
 });
 
+
+//testing testing
+
+
+
+
 // Log page load
 console.log('Git Basics website loaded successfully!');
 console.log('Features: Smooth scrolling, animated counters, interactive command cards');
